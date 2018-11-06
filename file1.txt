@@ -19,4 +19,11 @@ $ git log --oneline// filter the details of commit in oneline
 
 aur ek change which is change2
 
-$ git log --oneline// filter the details of commit in oneline
+$ git log --oneline// filter the de
+
+
+
+
+
+
+tails of commit in oneline
