@@ -20,3 +20,8 @@ $ git log --oneline// filter the details of commit in oneline
 aur ek change which is change2
 
 $ git log --oneline// filter the details of commit in oneline
+
+
+
+change kitwa,
+tu hi re maza mitwa
