@@ -7,3 +7,8 @@ $ git config --global user.email "tejas_kale@persistent.com"//set properties by 
 $ git config --list//list of properties
 
 $ git config --global core.editor notepad//used to set editor so that commands cna be send to the git
+
+change1
+$ git config --global core.editor notepad//used to set editor so that commands cna be send to the git
+
+$ git init //create new reposistory
