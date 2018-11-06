@@ -12,3 +12,5 @@ change1
 $ git config --global core.editor notepad//used to set editor so that commands cna be send to the git
 
 $ git init //create new reposistory
+
+aur ek change which is change2
