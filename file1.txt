@@ -14,4 +14,9 @@ $ git config --global core.editor notepad//used to set editor so that commands c
 aur ek change which is change2
 
 $ git log --oneline// filter the details of commit in oneline
+
+
+
+aur ek change which is change2
+
 $ git log --oneline// filter the details of commit in oneline
